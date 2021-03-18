@@ -1,4 +1,11 @@
 ## Olá!! sejam muito bem-vindos! <img align="center" alt="Homer Simpson" height="60" width="80" src="https://media.giphy.com/media/L4ZI0w4waQ2vSkMgU9/giphy.gif">
+
+- Sou Uallesson Nunes Ivo
+- 27 anos... e contando..
+- Faço freelas com desenvolvimento front-end
+- Atualmente estudando MERN STACK
+
+
 <a href="https://github.com/Uallessonivo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Uallessonivo&layout=compact&langs_count=8&theme=dracula"/>
 <div>
