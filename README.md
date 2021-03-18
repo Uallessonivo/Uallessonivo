@@ -1,4 +1,4 @@
-## Olá!! sejam muito bem-vindos! Segue <img align="center" alt="Homer Simpson" height="60" width="80" src="https://media.giphy.com/media/L4ZI0w4waQ2vSkMgU9/giphy.gif">
+## Olá!! sejam muito bem-vindos! <img align="center" alt="Homer Simpson" height="60" width="80" src="https://media.giphy.com/media/L4ZI0w4waQ2vSkMgU9/giphy.gif">
 <a href="https://github.com/Uallessonivo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Uallessonivo&layout=compact&langs_count=8&theme=dracula"/>
 <div>
