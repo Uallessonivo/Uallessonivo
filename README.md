@@ -5,6 +5,8 @@
 - Faço freelas com desenvolvimento front-end
 - Atualmente estudando MERN STACK
 
+## https://uallessonivo.github.io/portfolio
+
 
 <a href="https://github.com/Uallessonivo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Uallessonivo&layout=compact&langs_count=8&theme=dracula"/>
