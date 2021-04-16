@@ -3,12 +3,14 @@
 - Sou Uallesson Nunes Ivo
 - 27 anos... e contando..
 - Faço freelas com desenvolvimento front-end
+- Flertando com a ideia de estudar back-end
 - Atualmente estudando MERN STACK
 
 ## https://uallessonivo.github.io/portfolio
 
 <div>
   <a href="https://github.com/Uallessonivo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uallessonivo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uallessonivo&layout=compact&langs_count=8&theme=dark"/>
 <div>
 
