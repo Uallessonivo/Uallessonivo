@@ -4,8 +4,9 @@
 - 27 anos... e contando..
 - Faço freelas com desenvolvimento front-end
 - Flertando com a ideia de estudar back-end
-- Atualmente estudando MERN STACK
+- const estudando = ['Javascript', 'TypeScript', 'React', 'Next Js', 'Node', 'Express', 'noSQL', 'hooks', 'Redux', 'Design Patterns']
 
+ 
 ## https://uallessonivo.github.io/portfolio
 
 <div>
@@ -14,10 +15,12 @@
 <div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ivo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ivo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ivo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ivo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ivo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ivo-React" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+  <img align="center" alt="Ivo-Next" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">  
+  <img align="center" alt="Ivo-TypeScript" height="30" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 </div>
   
   ##
