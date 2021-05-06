@@ -13,19 +13,17 @@
   <a href="https://github.com/Uallessonivo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uallessonivo&layout=compact&langs_count=8&theme=dark"/>
 <div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ivo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ivo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ivo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ivo-React" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img align="center" alt="Ivo-Next" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">  
-  <img align="center" alt="Ivo-TypeScript" height="30" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-</div>
   
   ##
   
   <div>
   <a href = "mailto: uallessons@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/uallesson_ivo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+## Tema que criei para vscode
+
+<div align="center">
+	<a href="https://marketplace.visualstudio.com/items?itemName=Uallesson.CelestialDraculaTheme">
+		<img src="https://img.shields.io/badge/-VISUAL%20STUDIO%20MARKETPLACE-orange" /></a>
 </div>
