@@ -4,7 +4,18 @@
 - 27 anos... e contando..
 - Faço freelas com desenvolvimento front-end
 - Flertando com a ideia de estudar back-end
-- const estudando = ['Javascript', 'TypeScript', 'React', 'Next Js', 'Node', 'Express', 'noSQL', 'hooks', 'Redux', 'Design Patterns']
+- const estudando = [
+ 'Javascript', 
+ 'TypeScript', 
+ 'React', 
+ 'Next Js', 
+ 'Node', 
+ 'Express', 
+ 'noSQL', 
+ 'hooks', 
+ 'Redux', 
+ 'Design Patterns'
+ ]
 
  
 ## https://uallessonivo.github.io/portfolio
