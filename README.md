@@ -45,7 +45,7 @@ I'm a passionate learner from @rocketseat who's always willing to learn and love
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://uallessonivo.github.io/portfolio"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://uallesson.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/uallesson-nunes-ivo/"><img src="https://img.shields.io/badge/-Uallesson%20Nunes%20Ivo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto: uallessons@gmail.com"><img src="https://img.shields.io/badge/-uallessons@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/uallesson_ivo"><img src="https://img.shields.io/badge/-@uallesson_ivo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
