@@ -30,7 +30,7 @@ I'm a passionate learner from @rocketseat who's always willing to learn and love
 ### 🛠 &nbsp;Studying..
 
 ![GoLang](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=go)&nbsp;
-![Docker](https://img.shields.io/badge/-SQL-blue?style=plastic&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=plastic&logo=microsoftsqlserver)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
