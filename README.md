@@ -2,36 +2,36 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a passionate learner from @rocketseat who's always willing to learn and love to explore new technologies. I have already participated in some freelance projects, but now I am looking for a new opportunity.
+I'm a passionate learner from @rocketseat who's always willing to learn and love to explore new technologies. I have already participated in some freelance projects, I'm currently working as a System Development Analyst.
 
 💡 &nbsp;I like to explore new technologies and develop software solutions .\
-🎓 &nbsp;I'm currently studying Front-end Development.\
+🎓 &nbsp;I'm currently working with Front-end Development and Database Management.\
 🌱 &nbsp;I'm on track for learning more about Back-end Development.\
 📫 &nbsp;How to reach me: uallessons@gmail.com.
 
 
 
-### 🛠 &nbsp;Learning
+### 🛠 &nbsp;Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=next-dot-js)&nbsp;\
+![Next](https://img.shields.io/badge/-Next-000000?style=plastic&logo=next.js)&nbsp;\
 ![Stripe](https://img.shields.io/badge/-Stripe-1A2477?style=flat&logo=stripe)&nbsp;
 ![Strapi](https://img.shields.io/badge/-Strapi-008CDD?style=flat&logo=strapi)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled-8E1C04?style=flat&logo=styled-components)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-purple?style=plastic&logo=tailwindcss)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-DE00A5?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### 🛠 &nbsp;I want to learn
+### 🛠 &nbsp;Studying..
 
 ![GoLang](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=go)&nbsp;
-![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Docker](https://img.shields.io/badge/-SQL-blue?style=plastic&logo=docker)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=plastic&logo=microsoftsqlserver)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
