@@ -15,6 +15,7 @@ I'm a passionate learner from @rocketseat who's always willing to learn and love
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![NodeJs](https://img.shields.io/badge/-Nodejs-BDC3C7?style=flat&logo=Node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-000000?style=plastic&logo=next.js)&nbsp;\
 ![Stripe](https://img.shields.io/badge/-Stripe-1A2477?style=flat&logo=stripe)&nbsp;
@@ -29,7 +30,7 @@ I'm a passionate learner from @rocketseat who's always willing to learn and love
 
 ### 🛠 &nbsp;Studying..
 
-![GoLang](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/-Python-F3C13A?style=flat&logo=python)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=plastic&logo=microsoftsqlserver)&nbsp;
 
