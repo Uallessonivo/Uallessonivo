@@ -30,7 +30,7 @@ I'm a passionate learner from @rocketseat who's always willing to learn and love
 
 ### 🛠 &nbsp;Studying..
 
-![Python](https://img.shields.io/badge/-Python-F3C13A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-2e2b24?style=flat&logo=java)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=plastic&logo=microsoftsqlserver)&nbsp;
 
