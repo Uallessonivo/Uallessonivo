@@ -27,8 +27,8 @@ I'm a passionate learner from @rocketseat who's always willing to learn and love
 
 ### 🛠 &nbsp;Studying..
 
-![Java](https://img.shields.io/badge/-Java-2e2b24?style=flat&logo=java)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring-2e2b24?style=flat&logo=spring)&nbsp;
+![Python](https://img.shields.io/badge/-Python-2e2b24?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-2e2b24?style=flat&logo=django)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
