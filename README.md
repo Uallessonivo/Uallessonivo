@@ -2,9 +2,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a passionate learner from @rocketseat who's always willing to learn and love to explore new technologies. I have already participated in some freelance projects, I'm currently working as a System Development Analyst.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions .\
+Full Stack developer who is always willing to learn and loves to explore new technologies. <br/>
+I've been studying and developing since the beginning of 2021. <br/>
+Since then I've been improving and studying even more in the development area.  <br/>
+I am currently working as a Development Analyst at Agrocape.
+
+
+💡  &nbsp;I like to explore new technologies and develop software solutions .\
 🎓 &nbsp;I'm currently working with Front-end Development and Database Management.\
 🌱 &nbsp;I'm on track for learning more about Back-end Development.\
 📫 &nbsp;How to reach me: uallessons@gmail.com.
@@ -27,8 +32,8 @@ I'm a passionate learner from @rocketseat who's always willing to learn and love
 
 ### 🛠 &nbsp;Studying..
 
-![Python](https://img.shields.io/badge/-Python-2e2b24?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-2e2b24?style=flat&logo=django)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp-2e2b24?style=flat&logo=csharp)&nbsp;
+![.Net](https://img.shields.io/badge/-NET-6d32a8?style=flat&logo=dotnet)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
