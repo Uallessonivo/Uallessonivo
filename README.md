@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://uallesson.vercel.app/](https://uallesson.vercel.app/)
 
-- 💬 Ask me about **Nextjs, Typescript, Express**
+- 💬 Ask me about **Nextjs, Typescript, NestJs**
 
 - 📫 How to reach me **uallessons@gmail.com**
 
