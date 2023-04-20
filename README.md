@@ -18,7 +18,6 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-bd6615?style=flat-square&logo=rust&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/-CSharp-34d944?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
