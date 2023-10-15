@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://uallesson.vercel.app/](https://uallesson.vercel.app/)
 
-- 💬 Ask me about **SQL Server, C#, Node.Js, C++**
+- 💬 Ask me about **SQL Server, C#, Node.Js, Go**
 
 - 📫 How to reach me **uallessons@gmail.com**
 
