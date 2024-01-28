@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **Agrocape Agropecuária Caça e pesca LTDA**
 
-- 🌱 I’m currently learning **DDD, Clean Architecture and SOLID**
+- 🌱 I’m currently learning **Microservices, Kafka, RabbitMQ, ELK Stack**
 
 - 👨‍💻 All of my projects are available at [https://uallesson.vercel.app/](https://uallesson.vercel.app/)
 
-- 💬 Ask me about **SQL Server, Java, Node.Js, Go**
+- 💬 Ask me about **SQL Server, Java, Spring Boot, C#, Go**
 
 - 📫 How to reach me **uallessons@gmail.com**
 
 - 📄 Know about my experiences [https://br.linkedin.com/in/uallesson-nunes-ivo](https://br.linkedin.com/in/uallesson-nunes-ivo)
 
-- ⚡ Fun fact **I have two cats but I love dogs**
+- ⚡ Fun fact **I have two cats, but I love dogs**
 
 <h3 align="center">Languages and Tools</h3>
 
